@@ -9,7 +9,7 @@
 
 ==========
 
-转载文章是我的荣幸，但请附上本仓库链接:https://github.com/caiyue1993/DevNotes ，谢谢：）
+欢迎转载，但请附上本仓库链接: https://github.com/caiyue1993/DevNotes 
 
 同时，也欢迎访问我的博客：http://soledad.me
-
+谢谢：）
