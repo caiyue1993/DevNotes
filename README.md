@@ -11,5 +11,3 @@
 
 欢迎转载，但请附上本仓库链接: https://github.com/caiyue1993/DevNotes 
 
-同时，也欢迎访问我的博客：http://soledad.me
-谢谢：）
