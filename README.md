@@ -12,7 +12,7 @@
 ### [关于 Swift 中的初始化，必须清晰的一些细节](https://github.com/caiyue1993/DevNotes/blob/master/notes/initializer-in-swift.md)
 说实话，Swift 中的初始化规则比较复杂，但这篇文章努力将其诠释清楚。
 
-### [再谈 Auto Layout]
+### [再谈 Auto Layout]()
 
 ==========
 
