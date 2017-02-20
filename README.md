@@ -4,7 +4,7 @@
 
 
 
-如果你想拥有更好的首页阅读体验，请直接点击[ wiki 页面](https://github.com/caiyue1993/DevNotes/wiki)
+如果你想拥有更好的首页阅读体验，请直接点击[ Wiki 页面](https://github.com/caiyue1993/DevNotes/wiki)
 
 ---
 
