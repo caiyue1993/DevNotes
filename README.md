@@ -13,8 +13,6 @@
 
 ### [关于 Notification Center Extensions（或者叫 Widget）](https://github.com/caiyue1993/DevNotes/wiki/%E5%85%B3%E4%BA%8E-Notification-Center-Extensions%EF%BC%88%E6%88%96%E8%80%85%E5%8F%AB-Widget%EF%BC%89)
 
-### [有关 Widget 的学习内容小结以及实践过程中踩过的坑](https://github.com/caiyue1993/DevNotes/wiki/%E6%9C%89%E5%85%B3-Widget-%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%86%85%E5%AE%B9%E5%B0%8F%E7%BB%93%E4%BB%A5%E5%8F%8A%E5%AE%9E%E8%B7%B5%E8%BF%87%E7%A8%8B%E4%B8%AD%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91)
-
 ==========
 
 如有问题，欢迎直接提 issue 或者新浪微博 [@CaiYue_](http://weibo.com/caiyue233)
